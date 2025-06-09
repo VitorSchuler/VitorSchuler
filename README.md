@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Hi,%20I'm%20Vitor%20Schuler%20Velloso%20Borges-Computer%20Science%20Student%20@%20UFCG-3A73C1?style=for-the-badge&logo=github&logoColor=white" alt="Minimalist Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Vitor+Schuler+Velloso+Borges;Computer+Science+Student+at+UFCG;AI+and+Web+Development+Enthusiast;Welcome+to+my+GitHub+profile!" alt="Typing SVG Banner" />
 </p>
+
 
 ---
 
 ## 👨‍💻 About Me
 
 🎓 Computer Science undergraduate at UFCG (2023–2027)  
-💼 Member of the Business Team at [CodeX Jr](https://www.linkedin.com/company/codex-jr/)  
-📚 Volunteer educator at [IEEE SIGHT UFCG](https://www.instagram.com/ieee.ufcg/)  
+💼 Member of the Business Team at [CodeX Jr](https://codexjr.com.br/)  
+📚 Volunteer educator at [IEEE SIGHT UFCG](https://www.linkedin.com/company/ieee-sight-ufcg/)  
 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and impactful tech  
 🧠 Always curious, self-driven, and ready to take on new challenges
 
