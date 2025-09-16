@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 🎓 Computer Science undergraduate at UFCG (2023–2027)  
-💼 Member of the Business Team at [CodeX Jr](https://codexjr.com.br/)  
+💼 Director of the Business Team at [CodeX Jr](https://codexjr.com.br/)  
 📚 Volunteer educator at [IEEE SIGHT UFCG](https://www.linkedin.com/company/ieee-sight-ufcg/)  
 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and impactful tech  
 🧠 Always curious, self-driven, and ready to take on new challenges
